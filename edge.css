@@ -2,7 +2,7 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-    
+    font-family: Roboto;
 
 }
 .container{
@@ -80,4 +80,3 @@
     background-color: rgba(512,512,512,0.3);
     transition-duration:1s ;
 
-}
